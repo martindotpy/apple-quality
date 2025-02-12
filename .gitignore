@@ -15,3 +15,6 @@ wheels/
 
 # Dataset
 *.csv
+
+# Cache
+.ruff_cache/
